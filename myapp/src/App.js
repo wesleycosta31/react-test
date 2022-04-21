@@ -10,7 +10,7 @@ import './App.css';
 
 function App() {
   return (
-    <main classNameName="App">
+    <main className="App">
       <header>
       <nav className="navbar navbar-expand-sm navbar-light bg-warning">
         <div className="container">
